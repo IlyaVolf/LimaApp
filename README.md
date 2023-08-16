@@ -40,4 +40,3 @@ Kotlin, MVVM, Room, Data Store, Kotlin Coroutines, Kotlin Flow, Hilt, Jetpack Na
 ## Доп. ссылки
 
 1. [Дизайн в Figma](https://www.figma.com/file/0Z7BmaQy8rl5xGbKXvzAMT/Lima:-Life-manager?node-id=0%3A1)
-2. [Презентация](./Docs/presentation.pptx)
