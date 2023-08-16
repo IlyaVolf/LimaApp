@@ -18,6 +18,9 @@ Kotlin, MVVM, Room, Data Store, Kotlin Coroutines, Kotlin Flow, Hilt, Jetpack Na
 
 ## Демонстрация приложения
 
+### Дизайн
+[Дизайн в Figma](https://www.figma.com/file/0Z7BmaQy8rl5xGbKXvzAMT/Lima:-Life-manager?node-id=0%3A1)
+
 ### Скриншоты
 
 <img src="https://github.com/IlyaVolf/LimaApp/assets/70796651/fe5ebbf8-b506-4414-b94e-e27c88b73043" width="216" height="384">
@@ -35,8 +38,3 @@ Kotlin, MVVM, Room, Data Store, Kotlin Coroutines, Kotlin Flow, Hilt, Jetpack Na
 Продолжительность - 1:38
 
 ![video_2023-08-16_19-49-38 (1) (online-video-cutter com)](https://github.com/IlyaVolf/LimaApp/assets/70796651/e9c0c5fa-f67c-4cf4-963f-7121791107ff)
-
-
-## Доп. ссылки
-
-1. [Дизайн в Figma](https://www.figma.com/file/0Z7BmaQy8rl5xGbKXvzAMT/Lima:-Life-manager?node-id=0%3A1)
